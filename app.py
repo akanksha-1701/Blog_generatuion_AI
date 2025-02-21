@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 API_URL = "https://api-inference.huggingface.co/models/tiiuae/falcon-7b-instruct"
-headers = {"Authorization": "Bearer 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"}
+headers = {"Authorization": "Bearer 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"}
 
 from langchain import PromptTemplate
 
