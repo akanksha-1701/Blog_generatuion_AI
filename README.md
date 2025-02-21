@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1>Generate Blogs 🤖</h1>
 <br><br>
 
@@ -37,3 +38,7 @@ Python & Requests (for backend processing)<br>
 
 
 Give it a try and see how effortlessly you can create blog content!😍
+=======
+# Blog_generatuion_AI
+This is blog generation application where you fill topic name no of word and generate the blog using AI.
+>>>>>>> d8d97cfd1cf7253bf52bb559679b85e8c57ae699

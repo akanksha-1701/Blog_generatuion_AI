@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 sentence-transformers
 uvicorn
 ctransformers
 langchain
 python-box
 streamlit
+=======
+sentence-transformers
+uvicorn
+ctransformers
+langchain
+python-box
+streamlit
+>>>>>>> d8d97cfd1cf7253bf52bb559679b85e8c57ae699
